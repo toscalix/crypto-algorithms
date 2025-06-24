@@ -1,5 +1,4 @@
-# SPDX-License-Identifier: CC0-1.0
-
 id: seal
 name: Software-Optimized Encryption Algorithm Cipher
-securityStrength: '128'
+keySize: '128'
+cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher

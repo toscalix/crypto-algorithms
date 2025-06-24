@@ -1,5 +1,4 @@
-# SPDX-License-Identifier: CC0-1.0
-
 id: cmea
 name: Cellular Message Encryption Algorithm
-securityStrength: '64'
+keySize: '64'
+cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher

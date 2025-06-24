@@ -1,5 +1,4 @@
-# SPDX-License-Identifier: CC0-1.0
-
 id: twofish
 name: Twofish Block Cipher
-securityStrength: '64'
+keySize: '64'
+cryptoClass: Symmetric-Key-Algorithm/Block-Cipher

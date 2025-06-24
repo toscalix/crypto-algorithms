@@ -1,5 +1,4 @@
-# SPDX-License-Identifier: CC0-1.0
-
 id: blum-goldwasser
 name: Blum-Goldwasser Probabilistic Encryption
-securityStrength: '320'
+keySize: '320'
+cryptoClass: Asymmetric-Key-Algorithm/Public-Key-Cipher

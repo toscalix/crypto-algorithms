@@ -1,5 +1,4 @@
-# SPDX-License-Identifier: CC0-1.0
-
 id: fortuna
 name: Fortuna Random Number Generator
-securityStrength: '64'
+keySize: '64'
+cryptoClass: Symmetric-Key-Algorithm/Random-Number-Generator

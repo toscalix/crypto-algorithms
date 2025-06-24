@@ -1,5 +1,4 @@
-# SPDX-License-Identifier: CC0-1.0
-
 id: wake
 name: WAKE Stream Cipher
-securityStrength: '64'
+keySize: '64'
+cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher

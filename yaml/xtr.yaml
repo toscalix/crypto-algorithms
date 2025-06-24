@@ -1,5 +1,4 @@
-# SPDX-License-Identifier: CC0-1.0
-
 id: xtr
 name: XTR Public Key System
-securityStrength: '64'
+keySize: '64'
+cryptoClass: Asymmetric-Key-Algorithm/Public-Key-Cipher

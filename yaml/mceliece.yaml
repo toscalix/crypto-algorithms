@@ -1,5 +1,4 @@
-# SPDX-License-Identifier: CC0-1.0
-
 id: mceliece
 name: McEliece Cryptosystem
-securityStrength: '64'
+keySize: '64'
+cryptoClass: Asymmetric-Key-Algorithm/Public-Key-Cipher

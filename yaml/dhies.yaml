@@ -1,5 +1,4 @@
-# SPDX-License-Identifier: CC0-1.0
-
 id: dhies
 name: Diffie-Hellman Integrated Encryption Scheme
-securityStrength: '128'
+keySize: '128'
+cryptoClass: Asymmetric-Key-Algorithm/Hybrid-Cipher

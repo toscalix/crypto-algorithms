@@ -1,5 +1,4 @@
-# SPDX-License-Identifier: CC0-1.0
-
 id: vmpc
 name: VMPC Stream Cipher
-securityStrength: ''
+keySize: ''
+cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher

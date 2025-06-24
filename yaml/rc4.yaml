@@ -1,5 +1,4 @@
-# SPDX-License-Identifier: CC0-1.0
-
 id: rc4
 name: Rivest Cipher 4
-securityStrength: '2048'
+keySize: '2048'
+cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher

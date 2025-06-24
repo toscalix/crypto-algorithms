@@ -1,5 +1,4 @@
-# SPDX-License-Identifier: CC0-1.0
-
 id: rabbit
-name: Rabbit Stream Cipher 
-securityStrength: '128'
+name: Rabbit Stream Cipher
+keySize: '128'
+cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher

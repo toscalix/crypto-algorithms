@@ -1,5 +1,4 @@
-# SPDX-License-Identifier: CC0-1.0
-
 id: rc4-hmac
 name: RC4 with HMAC-MD5
-securityStrength: '2048'
+keySize: '2048'
+cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher

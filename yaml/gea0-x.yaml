@@ -1,5 +1,4 @@
-# SPDX-License-Identifier: CC0-1.0
-
 id: gea0-x
 name: GPRS Encryption Algorithm version 0
-securityStrength: 64-128
+keySize: 64-128
+cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher

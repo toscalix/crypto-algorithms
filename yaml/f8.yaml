@@ -1,5 +1,4 @@
-# SPDX-License-Identifier: CC0-1.0
-
 id: f8
-name:  
-securityStrength: '128'
+name:
+keySize: '128'
+cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher

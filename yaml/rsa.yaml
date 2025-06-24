@@ -1,5 +1,4 @@
-# SPDX-License-Identifier: CC0-1.0
-
 id: rsa
 name: Rivest–Shamir–Adleman Algorithm
-securityStrength: '128'
+keySize: '128'
+cryptoClass: Asymmetric-Key-Algorithm/Public-Key-Cipher

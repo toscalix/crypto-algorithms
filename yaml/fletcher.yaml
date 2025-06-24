@@ -1,5 +1,4 @@
-# SPDX-License-Identifier: CC0-1.0
-
 id: fletcher
 name: Fletcher's Checksum
-securityStrength: '64'
+keySize: '64'
+cryptoClass: Cryptographic-Hash-Function/Checksum

@@ -1,5 +1,4 @@
-# SPDX-License-Identifier: CC0-1.0
-
 id: des
 name: Data Encryption Standard
-securityStrength: '168'
+keySize: '168'
+cryptoClass: Symmetric-Key-Algorithm/Block-Cipher

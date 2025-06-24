@@ -1,5 +1,4 @@
-# SPDX-License-Identifier: CC0-1.0
-
 id: bcrypt
 name: OpenBSD Blowfish password hashing scheme
-securityStrength: '320'
+keySize: '320'
+cryptoClass: Cryptographic-Hash-Function/Password-Hashing
