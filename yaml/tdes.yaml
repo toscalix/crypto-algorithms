@@ -1,4 +1,4 @@
 id: tdes
 name: Triple Data Encryption Standard
-keySize: '128'
+commonkeySize: '128'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher

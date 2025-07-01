@@ -1,4 +1,4 @@
 id: chacha(salsa)
 name: ChaCha Stream Cipher
-keySize: '256'
+commonkeySize: '256'
 cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher

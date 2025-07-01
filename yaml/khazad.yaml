@@ -1,4 +1,4 @@
 id: khazad
 name: Khazad Block Ciphe
-keySize: '16'
+commonkeySize: '16'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher

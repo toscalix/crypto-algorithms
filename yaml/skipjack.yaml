@@ -1,4 +1,4 @@
 id: skipjack
 name: Skipjack Block Cipher
-keySize: '32'
+commonkeySize: '32'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher

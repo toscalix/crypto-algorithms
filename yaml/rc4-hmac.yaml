@@ -1,4 +1,4 @@
 id: rc4-hmac
 name: RC4 with HMAC-MD5
-keySize: '2048'
+commonkeySize: '2048'
 cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher

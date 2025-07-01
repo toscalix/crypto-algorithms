@@ -1,4 +1,4 @@
 id: shs
 name:  Secure Hash Standard
-keySize: '128'
+commonkeySize: '128'
 cryptoClass: Cryptographic-Hash-Function/Hash-Function

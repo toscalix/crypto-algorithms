@@ -1,4 +1,4 @@
 id: pbe
 name: Password-Based Encryption
-keySize: '128'
+commonkeySize: '128'
 cryptoClass: Symmetric-Key-Algorithm/Key-Derivation

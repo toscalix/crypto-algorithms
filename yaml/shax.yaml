@@ -1,4 +1,4 @@
 id: shax
 name: SHA-x (SHA-1, SHA-256, etc.)
-keySize: 128-512
+commonkeySize: 128-512
 cryptoClass: Cryptographic-Hash-Function/Hash-Function

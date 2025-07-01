@@ -1,4 +1,4 @@
 id: hc256
 name:  Hongjun Wu's Cipher 256
-keySize: '256'
+commonkeySize: '256'
 cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher

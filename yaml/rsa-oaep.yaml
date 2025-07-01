@@ -1,4 +1,4 @@
 id: rsa-oaep
 name: RSA with Optimal Asymmetric Encryption Padding
-keySize: '128'
+commonkeySize: '128'
 cryptoClass: Asymmetric-Key-Algorithm/Public-Key-Cipher

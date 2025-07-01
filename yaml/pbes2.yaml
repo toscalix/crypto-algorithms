@@ -1,4 +1,4 @@
 id: pbes2
 name: Password-Based Encryption Scheme 2
-keySize: '256'
+commonkeySize: '256'
 cryptoClass: Symmetric-Key-Algorithm/Key-Derivation

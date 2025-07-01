@@ -1,4 +1,4 @@
 id: snerfu
 name: SNERFU Hash Function
-keySize: '256'
+commonkeySize: '256'
 cryptoClass: Cryptographic-Hash-Function/Hash-Function

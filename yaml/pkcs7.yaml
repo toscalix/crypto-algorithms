@@ -1,4 +1,4 @@
 id: pkcs7
 name: Public Key Cryptography Standards 7
-keySize: '128'
+commonkeySize: '128'
 cryptoClass: Asymmetric-Key-Algorithm/Protocol

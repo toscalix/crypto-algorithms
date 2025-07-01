@@ -1,4 +1,4 @@
 id: rijndael
 name: Rijndael - AES Candidate Algorithm
-keySize: '256'
+commonkeySize: '256'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher

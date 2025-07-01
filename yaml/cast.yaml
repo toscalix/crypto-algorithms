@@ -1,4 +1,4 @@
 id: cast
 name: Carlisle Adams and Stafford Tavares
-keySize: '320'
+commonkeySize: '320'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher

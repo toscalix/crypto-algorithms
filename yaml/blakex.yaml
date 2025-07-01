@@ -1,4 +1,4 @@
 id: blakex
 name: BLAKE Hash Function
-keySize: 256/512
+commonkeySize: 256/512
 cryptoClass: Cryptographic-Hash-Function/Hash-Function

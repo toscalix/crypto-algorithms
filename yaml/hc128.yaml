@@ -1,4 +1,4 @@
 id: hc128
 name: Hongjun Wu's Cipher 128
-keySize: '128'
+commonkeySize: '128'
 cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher

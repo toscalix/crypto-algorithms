@@ -1,4 +1,4 @@
 id: md4
 name: Message-Digest Algorithm 4
-keySize: '128'
+commonkeySize: '128'
 cryptoClass: Cryptographic-Hash-Function/Hash-Function

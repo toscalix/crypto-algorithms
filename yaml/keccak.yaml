@@ -1,4 +1,4 @@
 id: keccak
 name: Keccak Hash Function
-keySize: '256'
+commonkeySize: '256'
 cryptoClass: Cryptographic-Hash-Function/Hash-Function

@@ -1,4 +1,4 @@
 id: fortuna
 name: Fortuna Random Number Generator
-keySize: '64'
+commonkeySize: '64'
 cryptoClass: Symmetric-Key-Algorithm/Random-Number-Generator

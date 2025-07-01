@@ -1,4 +1,4 @@
 id: wake
 name: WAKE Stream Cipher
-keySize: '64'
+commonkeySize: '64'
 cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher

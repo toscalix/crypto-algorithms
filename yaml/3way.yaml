@@ -1,4 +1,4 @@
 id: 3way
 name: 3-Way Block Cipher
-keySize: '128'
+commonkeySize: '128'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher

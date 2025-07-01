@@ -1,4 +1,4 @@
 id: xtr
 name: XTR Public Key System
-keySize: '64'
+commonkeySize: '64'
 cryptoClass: Asymmetric-Key-Algorithm/Public-Key-Cipher

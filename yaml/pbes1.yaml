@@ -1,4 +1,4 @@
 id: pbes1
 name: Password-Based Encryption Scheme 1
-keySize: '128'
+commonkeySize: '128'
 cryptoClass: Symmetric-Key-Algorithm/Key-Derivation

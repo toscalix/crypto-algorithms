@@ -1,4 +1,4 @@
 id: seal
 name: Software-Optimized Encryption Algorithm Cipher
-keySize: '128'
+commonkeySize: '128'
 cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher

@@ -1,4 +1,4 @@
 id: feal
 name: Fast Data Encipherment Algorithm
-keySize: '64'
+commonkeySize: '64'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher

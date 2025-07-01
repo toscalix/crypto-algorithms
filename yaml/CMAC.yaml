@@ -1,4 +1,4 @@
 id: CMAC
 name: Cipher-based Message Authentication Code
-keySize: '128'
+commonkeySize: '128'
 cryptoClass: Cryptographic-Hash-Function/Message-Authentication-Code

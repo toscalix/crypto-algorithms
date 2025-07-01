@@ -1,4 +1,4 @@
 id: sober
 name: SOBER Stream Cipher
-keySize: '128'
+commonkeySize: '128'
 cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher

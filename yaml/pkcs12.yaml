@@ -1,4 +1,4 @@
 id: pkcs12
 name: Public Key Cryptography Standards 12
-keySize: '128'
+commonkeySize: '128'
 cryptoClass: Asymmetric-Key-Algorithm/Protocol

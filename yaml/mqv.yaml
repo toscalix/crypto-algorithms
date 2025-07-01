@@ -1,4 +1,4 @@
 id: mqv
 name: Menezes-Qu-Vanstone
-keySize: '512'
+commonkeySize: '512'
 cryptoClass: Asymmetric-Key-Algorithm/Key-Exchange

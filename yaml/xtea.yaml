@@ -1,4 +1,4 @@
 id: xtea
 name: eXtended Tiny Encryption Algorithm
-keySize: '128'
+commonkeySize: '128'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher

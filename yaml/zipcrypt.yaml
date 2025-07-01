@@ -1,4 +1,4 @@
 id: zipcrypt
 name: ZipCrypt Encryption
-keySize: '64'
+commonkeySize: '64'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher

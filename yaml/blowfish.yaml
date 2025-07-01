@@ -1,4 +1,4 @@
 id: blowfish
 name: Blowfish Cipher
-keySize: '320'
+commonkeySize: '320'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher

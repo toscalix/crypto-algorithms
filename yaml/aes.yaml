@@ -1,4 +1,4 @@
 id: aes
 name: Advanced Encryption Standard
-keySize: '256'
+commonkeySize: '256'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher

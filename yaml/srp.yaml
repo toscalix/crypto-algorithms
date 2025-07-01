@@ -1,4 +1,4 @@
 id: srp
 name: Secure Remote Password Protocol
-keySize: '128'
+commonkeySize: '128'
 cryptoClass: Asymmetric-Key-Algorithm/Protocol

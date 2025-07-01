@@ -1,4 +1,4 @@
 id: ice
 name: Information Concealment Engine
-keySize: '128'
+commonkeySize: '128'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher

@@ -1,4 +1,4 @@
 id: misty1
 name: MISTY1 Block Cipher
-keySize: '32'
+commonkeySize: '32'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher

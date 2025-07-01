@@ -1,4 +1,4 @@
 id: isaac
 name: ISAAC Random Number Generator
-keySize: '256'
+commonkeySize: '256'
 cryptoClass: Symmetric-Key-Algorithm/Random-Number-Generator

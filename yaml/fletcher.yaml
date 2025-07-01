@@ -1,4 +1,4 @@
 id: fletcher
 name: Fletcher's Checksum
-keySize: '64'
+commonkeySize: '64'
 cryptoClass: Cryptographic-Hash-Function/Checksum

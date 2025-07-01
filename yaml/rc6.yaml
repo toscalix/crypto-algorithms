@@ -1,4 +1,4 @@
 id: rc6
 name: Rivest Cipher 6
-keySize: '128'
+commonkeySize: '128'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher

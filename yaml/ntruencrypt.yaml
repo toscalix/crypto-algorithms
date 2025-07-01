@@ -1,4 +1,4 @@
 id: ntruencrypt
 name: N-th degree TRuncated polynomial Ring Units
-keySize: '128'
+commonkeySize: '128'
 cryptoClass: Asymmetric-Key-Algorithm/Public-Key-Cipher

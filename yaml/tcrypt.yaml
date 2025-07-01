@@ -1,4 +1,4 @@
 id: tcrypt
 name: TCRYPT Encryption
-keySize: '128'
+commonkeySize: '128'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
