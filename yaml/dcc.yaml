@@ -1,4 +1,4 @@
 id: dcc
 name:  Direct Code Construction
-commonkeySize: '64'
 cryptoClass: Cryptographic-Hash-Function/Hash-Function
+commonkeySize: '64'

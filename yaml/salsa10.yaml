@@ -1,4 +1,4 @@
 id: salsa10
 name: Salsa10 Stream Cipher
-commonkeySize: '64'
 cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher
+commonkeySize: '64'

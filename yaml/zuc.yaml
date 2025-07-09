@@ -1,4 +1,4 @@
 id: zuc
 name: ZUC Stream Cipher
-commonkeySize: '128'
 cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher
+commonkeySize: '128'

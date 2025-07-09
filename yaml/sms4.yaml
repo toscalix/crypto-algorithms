@@ -1,4 +1,4 @@
 id: sms4
 name: SMS4 Block Cipher
-commonkeySize: '128'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
+commonkeySize: '128'

@@ -1,4 +1,5 @@
 id: des
 name: Data Encryption Standard
-commonkeySize: '168'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
+commonkeySize: '168'
+specifiedkeySize: '56'

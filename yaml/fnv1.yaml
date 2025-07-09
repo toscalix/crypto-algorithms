@@ -1,4 +1,4 @@
 id: fnv1
 name: Fowler-Noll-Vo Hash Function
-commonkeySize: '1024'
 cryptoClass: Cryptographic-Hash-Function/Hash-Function
+commonkeySize: '1024'

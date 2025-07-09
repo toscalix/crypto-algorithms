@@ -1,4 +1,4 @@
 id: bcrypt
 name: OpenBSD Blowfish password hashing scheme
-commonkeySize: '320'
 cryptoClass: Cryptographic-Hash-Function/Password-Hashing
+commonkeySize: '320'

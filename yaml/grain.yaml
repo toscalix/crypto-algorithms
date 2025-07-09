@@ -1,4 +1,4 @@
 id: grain
 name: Grain Stream Cipher
-commonkeySize: '128'
 cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher
+commonkeySize: '128'

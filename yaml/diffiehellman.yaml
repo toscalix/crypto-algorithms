@@ -1,4 +1,4 @@
 id: diffiehellman
 name: Diffie-Hellman Key Exchange
-commonkeySize: '128'
 cryptoClass: Asymmetric-Key-Algorithm/Key-Exchange
+commonkeySize: '128'

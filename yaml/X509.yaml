@@ -1,4 +1,4 @@
 id: X509
-name: ITU-T Recommendation X.509 - Public Key Infrastructure Certificate Framework
-commonkeySize: '128'
+name: ITU-T Recommendation X.509 – Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile
 cryptoClass: Asymmetric-Key-Algorithm/Protocol
+commonkeySize: '128'

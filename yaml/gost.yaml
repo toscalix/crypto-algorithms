@@ -1,4 +1,4 @@
 id: gost
 name: GOST Block Cipher
-commonkeySize: '64'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
+commonkeySize: '64'

@@ -1,4 +1,4 @@
 id: yarrow
 name: Yarrow Random Number Generator
-commonkeySize: '160'
 cryptoClass: Symmetric-Key-Algorithm/Random-Number-Generator
+commonkeySize: '160'

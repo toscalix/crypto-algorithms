@@ -1,4 +1,4 @@
 id: lucifer
 name: Lucifer Cipher
-commonkeySize: '128'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
+commonkeySize: '128'

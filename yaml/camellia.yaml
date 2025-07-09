@@ -1,4 +1,5 @@
 id: camellia
 name: Camellia Cipher
-commonkeySize: '256'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
+commonkeySize: '256'
+specifiedkeySize: '128'-'256'

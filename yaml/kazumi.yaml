@@ -1,4 +1,4 @@
 id: kazumi
 name:  Kazumi Cipher
-commonkeySize: '64'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
+commonkeySize: '64'

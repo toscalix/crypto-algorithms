@@ -1,4 +1,5 @@
 id: rc5
 name: Rivest Cipher 5
-commonkeySize: '128'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
+commonkeySize: '128'
+specifiedkeySize: '128'

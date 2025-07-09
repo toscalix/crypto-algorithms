@@ -1,4 +1,4 @@
 id: mscash
 name: MSCash2 Password Hashing
-commonkeySize: '256'
 cryptoClass: Cryptographic-Hash-Function/Password-Hashing
+commonkeySize: '256'

@@ -1,4 +1,5 @@
 id: luc
-name:
-commonkeySize: '64'
+name: LUCas-based public key cryptosystem
 cryptoClass: Asymmetric-Key-Algorithm/Public-Key-Cipher
+commonkeySize: '64'
+specifiedkeySize: '1024'

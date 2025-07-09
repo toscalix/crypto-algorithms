@@ -1,4 +1,4 @@
 id: tea
 name: Tiny Encryption Algorithm
-commonkeySize: '128'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
+commonkeySize: '128'

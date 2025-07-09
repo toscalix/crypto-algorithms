@@ -1,4 +1,4 @@
 id: threefish
 name: Threefish Block Cipher
-commonkeySize: '1024'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
+commonkeySize: '1024'

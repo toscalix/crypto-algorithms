@@ -1,4 +1,5 @@
 id: rabin
 name: Rabin Encryption Algorithm
-commonkeySize: '128'
 cryptoClass: Asymmetric-Key-Algorithm/Public-Key-Cipher
+commonkeySize: '128'
+specifiedkeySize: '1024'-'2048'

@@ -1,4 +1,4 @@
 id: fasthash
 name: FastHash Algorithm
-commonkeySize: '256'
 cryptoClass: Cryptographic-Hash-Function/Hash-Function
+commonkeySize: '256'

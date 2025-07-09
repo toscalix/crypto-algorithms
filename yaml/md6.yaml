@@ -1,4 +1,4 @@
 id: md6
 name: Message-Digest Algorithm 6
-commonkeySize: '512'
 cryptoClass: Cryptographic-Hash-Function/Hash-Function
+commonkeySize: '512'

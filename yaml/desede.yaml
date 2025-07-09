@@ -1,4 +1,4 @@
 id: desede
 name:
-commonkeySize: '168'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
+commonkeySize: '168'

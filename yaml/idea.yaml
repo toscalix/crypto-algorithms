@@ -1,4 +1,5 @@
 id: idea
 name: International Data Encryption Algorithm
-commonkeySize: '64'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
+commonkeySize: '64'
+specifiedkeySize: '128'

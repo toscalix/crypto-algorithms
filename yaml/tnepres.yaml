@@ -1,4 +1,4 @@
 id: tnepres
 name:  TNEPRES Block Cipher (Reverse Serpent)
-commonkeySize: '256'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
+commonkeySize: '256'

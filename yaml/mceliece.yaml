@@ -1,4 +1,4 @@
 id: mceliece
 name: McEliece Cryptosystem
-commonkeySize: '64'
 cryptoClass: Asymmetric-Key-Algorithm/Public-Key-Cipher
+commonkeySize: '64'

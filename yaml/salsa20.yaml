@@ -1,4 +1,5 @@
 id: salsa20
 name: Salsa20 Stream Cipher
-commonkeySize: '128'
 cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher
+commonkeySize: '128'
+specifiedkeySize: '256'

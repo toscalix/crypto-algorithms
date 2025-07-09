@@ -1,4 +1,4 @@
 id: f8
-name:
-commonkeySize: '128'
+name: F8 Mode of Operation
 cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher
+commonkeySize: '128'

@@ -1,4 +1,4 @@
 id: ssha
 name: Salted Secure Hash Algorithm
-commonkeySize: '128'
 cryptoClass: Cryptographic-Hash-Function/Hash-Function
+commonkeySize: '128'

@@ -1,4 +1,4 @@
 id: asn1
 name: Abstract Syntax Notation One
-commonkeySize: '256'
 cryptoClass: Symmetric-Key-Algorithm/Encoding
+commonkeySize: '256'

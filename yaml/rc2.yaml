@@ -1,4 +1,4 @@
 id: rc2
 name:  Rivest Cipher 2
-commonkeySize: '128'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
+commonkeySize: '128'

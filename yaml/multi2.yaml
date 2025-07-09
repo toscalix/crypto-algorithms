@@ -1,4 +1,4 @@
 id: multi2
 name: MULTI2 Cipher
-commonkeySize: '128'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
+commonkeySize: '128'

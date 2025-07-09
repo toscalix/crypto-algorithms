@@ -1,4 +1,4 @@
 id: sapphire
 name: SAPPHIRE Cipher
-commonkeySize: '256'
 cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher
+commonkeySize: '256'

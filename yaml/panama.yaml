@@ -1,4 +1,4 @@
 id: panama
 name: PANAMA Hash and Stream Cipher
-commonkeySize: '128'
 cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher
+commonkeySize: '128'

@@ -1,4 +1,4 @@
 id: shark
 name: SHARK Block Cipher
-commonkeySize: '64'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
+commonkeySize: '64'

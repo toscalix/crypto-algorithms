@@ -1,4 +1,4 @@
 id: fcrypt
 name: Fast DES
-commonkeySize: '128'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
+commonkeySize: '128'

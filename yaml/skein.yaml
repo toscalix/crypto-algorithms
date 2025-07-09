@@ -1,4 +1,4 @@
 id: skein
 name: Skein Hash Function
-commonkeySize: '256'
 cryptoClass: Cryptographic-Hash-Function/Hash-Function
+commonkeySize: '256'

@@ -1,4 +1,4 @@
 id: ripemd
 name: RIPEMD Hash Function
-commonkeySize: '128'
 cryptoClass: Cryptographic-Hash-Function/Hash-Function
+commonkeySize: '128'

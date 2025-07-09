@@ -1,4 +1,4 @@
 id: cmea
 name: Cellular Message Encryption Algorithm
-commonkeySize: '64'
 cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher
+commonkeySize: '64'

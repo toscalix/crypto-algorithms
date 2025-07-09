@@ -1,4 +1,4 @@
 id: loki91
 name: LOKY91 Bock Cipher
-commonkeySize: '64'
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
+commonkeySize: '64'

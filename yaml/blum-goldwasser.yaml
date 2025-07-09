@@ -1,4 +1,5 @@
 id: blum-goldwasser
 name: Blum-Goldwasser Probabilistic Encryption
-commonkeySize: '320'
 cryptoClass: Asymmetric-Key-Algorithm/Public-Key-Cipher
+commonkeySize: '320'
+specifiedkeySize: '320'

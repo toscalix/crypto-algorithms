@@ -1,4 +1,4 @@
 id: mdc2
 name: Modification Detection Code 2
-commonkeySize: '128'
 cryptoClass: Cryptographic-Hash-Function/Hash-Function
+commonkeySize: '128'
