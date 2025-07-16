@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: CC0-1.0
 id: md160
 name: RACE Integrity Primitives Evaluation Message Digest)
 cryptoClass: Cryptographic-Hash-Function/Hash-Function

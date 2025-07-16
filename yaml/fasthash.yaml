@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: CC0-1.0
 id: fasthash
 name: FastHash Algorithm
 cryptoClass: Cryptographic-Hash-Function/Hash-Function

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: CC0-1.0
 id: 3des
 name: Triple Data Encryption Standard
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher

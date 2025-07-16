@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: CC0-1.0
 id: grain
 name: Grain Stream Cipher
 cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher

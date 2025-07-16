@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: CC0-1.0
 id: isaac
 name: ISAAC Random Number Generator
 cryptoClass: Symmetric-Key-Algorithm/Random-Number-Generator

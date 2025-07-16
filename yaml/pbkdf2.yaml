@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: CC0-1.0
 id: pbkdf2
 name: Password-Based Key Derivation Function 2
 cryptoClass: Cryptographic-Hash-Function/Key-Derivation

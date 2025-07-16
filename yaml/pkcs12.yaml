@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: CC0-1.0
 id: pkcs12
 name: Public Key Cryptography Standards 12
 cryptoClass: Asymmetric-Key-Algorithm/Protocol

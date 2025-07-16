@@ -1,4 +1,4 @@
+# SPDX-License-Identifier: CC0-1.0
 id: juniper
-name: Juniper Cipher
+name: Juniper Ciphe
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
-

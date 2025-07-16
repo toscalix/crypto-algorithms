@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: CC0-1.0
 id: CMAC
 name: Cipher-based Message Authentication Code
 cryptoClass: Cryptographic-Hash-Function/Message-Authentication-Code

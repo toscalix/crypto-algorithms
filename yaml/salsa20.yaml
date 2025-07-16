@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: CC0-1.0
 id: salsa20
 name: Salsa20 Stream Cipher
 cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher

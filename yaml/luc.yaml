@@ -1,5 +1,6 @@
+# SPDX-License-Identifier: CC0-1.0
 id: luc
-name: LUCas-based public key cryptosystem
+name:
 cryptoClass: Asymmetric-Key-Algorithm/Public-Key-Cipher
 commonkeySize: '64'
 specifiedkeySize: '1024'
