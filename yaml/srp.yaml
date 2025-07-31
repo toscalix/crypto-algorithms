@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
-
 id: srp
 name: Secure Remote Password Protocol
-securityStrength: '128'
+cryptoClass: Asymmetric-Key-Algorithm/Protocol
+commonkeySize: '128'

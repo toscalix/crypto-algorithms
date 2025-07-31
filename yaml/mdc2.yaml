@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
-
 id: mdc2
 name: Modification Detection Code 2
-securityStrength: '128'
+cryptoClass: Cryptographic-Hash-Function/Hash-Function
+commonkeySize: '128'

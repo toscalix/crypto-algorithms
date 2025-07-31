@@ -1,5 +1,6 @@
 # SPDX-License-Identifier: CC0-1.0
-
 id: dsa
 name: Digital Signature Algorithm
-securityStrength: '128'
+cryptoClass: Asymmetric-Key-Algorithm/Digital-Signature
+commonkeySize: '128'
+specifiedkeySize: '2048'TO'3072'

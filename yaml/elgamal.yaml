@@ -1,5 +1,6 @@
 # SPDX-License-Identifier: CC0-1.0
-
 id: elgamal
 name: ElGamal Encryption System
-securityStrength: '128'
+cryptoClass: Asymmetric-Key-Algorithm/Public-Key-Cipher
+commonkeySize: '128'
+specifiedkeySize: '2048'TO'4096'

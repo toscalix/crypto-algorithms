@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
-
 id: crc16
 name:  Cyclic Redundancy Check 16-bit
-securityStrength: '16'
+cryptoClass: Cryptographic-Hash-Function/Checksum
+commonkeySize: '16'

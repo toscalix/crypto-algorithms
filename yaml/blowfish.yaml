@@ -1,5 +1,6 @@
 # SPDX-License-Identifier: CC0-1.0
-
 id: blowfish
 name: Blowfish Cipher
-securityStrength: '320'
+cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
+commonkeySize: '320'
+specifiedkeySize: '128'TO'448'

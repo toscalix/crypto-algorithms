@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
-
 id: X509
 name: ITU-T Recommendation X.509 - Public Key Infrastructure Certificate Framework
-securityStrength: '128'
+cryptoClass: Asymmetric-Key-Algorithm/Protocol
+commonkeySize: '128'
