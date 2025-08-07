@@ -2,7 +2,7 @@
 
 ## Id
 
-* Description: univocal identifier for every cryptographic algorithm. This list provides an identifier per algorithm.
+* Description: unique identifier for every cryptographic algorithm. This list provides an identifier per algorithm.
 * Values: alphanumeric, where the usage of lower or upper case characters depend on each algorithm
 
 ## Name
