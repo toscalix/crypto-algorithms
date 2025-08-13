@@ -3,7 +3,7 @@
 ## Id
 
 * Description: unique identifier for every cryptographic algorithm. This list provides an identifier per algorithm.
-* Values: alphanumeric, where the usage of lower or upper case characters depend on each algorithm
+* Values: string, where the usage of lower or upper case characters depend on each algorithm
 
 ## Name
 
@@ -13,14 +13,14 @@
 ## commonkeySize
 
 * Description: the detected key size
-* Values: bbbb, where bbbb is an integer, provided in bits. More than one value is possible, separated by the operator AND
+* Values: <integer>, where <integer> is an integer, provided in bits. More than one value is possible, separated by the operator AND
 
 ## specifiedkeySize
 
 * Description: the default key size or range determined by the authors of the algorithm, standardization or compliance bodies/agencies
-* Values: any of these options are valid
-   * bbbb, where bbbb is an integer, provided in bits. More than one value is possible, separated by the operator AND
-   * bbbb TO cccc, where bbbb and cccc are integers, provided in bits, to express a range
+* Values: one of these options, or a combination of them, are valid
+   * <integer>, where <integer> is provided in bits. More than one value is possible, separated by the operator AND
+   * <integer> TO <integer>, where <integer> are provided in bits, to express a range
 
 ## cryptoClass
 
