@@ -30,4 +30,19 @@
    * Asymmetric-key algorithms, commonly known as public-key algorithms, use two related keys (i.e., a key pair) to perform their functions: a public key and a private key. The public key may be known by anyone; the private key should be under the sole control of the entity that “owns” the key pair. Even though the public and private keys of a key pair are related, knowledge of the public key cannot be used to determine the private key.
 * Values: "Cryptographic-Hash-Function" , "Symetric-Key-Algorithm" or "Asymmetric-Key-Algorithm"
 
-Note: the subclasses has been added to the cryptoClass property, separated by a "/" character from the class. This specific way to structure the subclasses is WIP.
+### cryptoSubClass
+
+* Description: each class of algorithms is categorised in subclasses. These subclasses are based/inspired on:
+   * NIST Special Publication (SP) [800-57](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt1r4.pdf) Part 1, Rev. 4, January
+   * Input from the SPDX Cryptographic Algorithms List Group members
+* Values:
+   * cryptoClass "Cryptographic-Hash-Function"
+     * cryptoSubClass values: "Hash-Function" , "Password-Hashing" , "Message-Authentication-Code" , "Checksum"
+  * cryptoClass "Symetric-Key-Algorithm"
+     * cryptoSubClass values: "Block-Cipher" , "Stream-Cipher" , "Encoding" , "Random-Number-Generator" , "Key-Derivation"
+  * cryptoClass "Asymmetric-Key-Algorithm"
+     * cryptoSubClass values: "Public-Key-Encryption" , "Public-Key-Cipher" , "Elliptic-Curve-Cryptography" , "Digital-Signature" , "Post-Quantum-Cryptography" , "Protocol", "Hybrid-Cipher" or "Key-Exchange-Mechanism"
+
+Notes: 
+1. the subclasses has been added to the cryptoClass property, separated by a "/" character from the class. This specific way to structure the subclasses is WIP.
+2. cryptoSubClass values are currently WIP
