@@ -3,4 +3,4 @@ id: rabin
 name: Rabin Encryption Algorithm
 cryptoClass: Asymmetric-Key-Algorithm/Public-Key-Cipher
 commonkeySize: '128'
-specifiedkeySize: '1024'TO'2048'
+specifiedkeySize: {min: '1024', max: '2048'}

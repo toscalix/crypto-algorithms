@@ -3,4 +3,4 @@ id: rc4
 name: Rivest Cipher 4
 cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher
 commonkeySize: '2048'
-specifiedkeySize: '128'TO'2048'
+specifiedkeySize: {min: '128', max: '2048'}
