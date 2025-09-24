@@ -13,14 +13,17 @@
 ## commonkeySize
 
 * Description: the detected key size
-* Values: <integer>, where <integer> is an integer, provided in bits. More than one value is possible, separated by the operator AND
+* Values:
+  * <integer>, where <integer> is an integer, provided in bits.
+  * ['<integer1>','<integer2>', ... '<integerx>'], where <integer2>, <integer2>, ... <integerx> are different integers, provided in bits, and in ascendant order.
 
 ## specifiedkeySize
 
 * Description: the default key size or range determined by the authors of the algorithm, standardization or compliance bodies/agencies
 * Values: one of these options, or a combination of them, are valid
-   * <integer>, where <integer> is provided in bits. More than one value is possible, separated by the operator AND
-   * <integer> TO <integer>, where <integer> are provided in bits, to express a range
+   * <integer>, where <integer> is an integer, provided in bits.
+   * ['<integer1>','<integer2>', ... '<integerx>'], where <integer2>, <integer2>, ... <integerx> are different integers, provided in bits, and in ascendant order.
+   * {min: '<intergermin>', max: '<intergermax>'}, where <integermin> is the minimum integer, and <integermax> is the maximum integer of the range, both provided in bits.
 
 ## cryptoClass
 
