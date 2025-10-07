@@ -3,4 +3,4 @@ id: elgamal
 name: ElGamal Encryption System
 cryptoClass: Asymmetric-Key-Algorithm/Public-Key-Cipher
 commonkeySize: '128'
-specifiedkeySize: '2048'TO'4096'
+specifiedkeySize: {min: '2048', max: '4096'}
