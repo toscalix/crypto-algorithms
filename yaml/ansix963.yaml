@@ -1,0 +1,4 @@
+# SPDX-License-Identifier: CC0-1.0
+id: 'ansix963'
+name: 'ANSI X9.63'
+cryptoClass: 'Protocol-Standard'
