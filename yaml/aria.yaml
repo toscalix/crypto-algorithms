@@ -3,4 +3,4 @@ id: aria
 name: Aria Block Cipher
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
 commonkeySize: '128'
-specifiedkeySize: '128'TO'256'
+specifiedkeySize: {min: '128', max: '256'}

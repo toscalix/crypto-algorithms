@@ -3,4 +3,4 @@ id: dsa
 name: Digital Signature Algorithm
 cryptoClass: Asymmetric-Key-Algorithm/Digital-Signature
 commonkeySize: '128'
-specifiedkeySize: '2048'TO'3072'
+specifiedkeySize: {min: '2048', max: '3072'}
