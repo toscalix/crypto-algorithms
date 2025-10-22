@@ -1,5 +1,5 @@
-# SPDX-License-Identifier: CC0-1.0
 id: desede
+oid: 1.2.840.113549.3.7
 name: Data Encryption Standard – Encrypt-Decrypt-Encrypt.
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
 commonkeySize: '168'
