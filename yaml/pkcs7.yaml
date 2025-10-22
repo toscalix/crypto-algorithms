@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: CC0-1.0
 id: pkcs7
 oid: 1.2.840.113549.1.7.1
 name: Public Key Cryptography Standards 7
