@@ -1,4 +1,0 @@
-# SPDX-License-Identifier: CC0-1.0
-id: 'ccm'
-name: 'Counter with CBC-MAC'
-cryptoClass: 'Block-Cipher-Mode'
