@@ -5,6 +5,11 @@
 * Description: unique identifier for every cryptographic algorithm. This list provides an identifier per algorithm.
 * Values: string, where the usage of lower or upper case characters depend on each algorithm
 
+## oid
+
+* Description: unique, globally unambiguous identifier, managed by registration authorities to ensure it clearly identifies a specific object, such as a cryptographic algorithm
+* Values: series of integers separated by dots, where each number represents a level in a tree structure
+
 ## Name
 
 * Description: widely accepted name provided by the author of the algorithm or a standardization body

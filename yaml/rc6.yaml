@@ -1,5 +1,6 @@
 # SPDX-License-Identifier: CC0-1.0
 id: rc6
+oid: 
 name: Rivest Cipher 6
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
 commonkeySize: '128'
