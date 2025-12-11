@@ -1,6 +1,0 @@
-# SPDX-License-Identifier: CC0-1.0
-id: rsa-oaep
-name: RSA with Optimal Asymmetric Encryption Padding
-cryptoClass: Asymmetric-Key-Algorithm/Public-Key-Cipher
-commonkeySize: '128'
-specifiedkeySize: {min: '2048', max: '4096'}
