@@ -2,5 +2,5 @@
 id: blakex
 name: BLAKE Hash Function
 cryptoClass: Cryptographic-Hash-Function/Hash-Function
-commonkeySize: {'256','512'}
+commonkeySize: ['256','512']
 specifiedkeySize: {min: '256', max: '512'}
