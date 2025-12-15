@@ -1,6 +1,6 @@
 # SPDX Cryptographic Algorithms List properties description
 
-## Id
+## id
 
 * Description: unique identifier for every cryptographic algorithm. This list provides an identifier per algorithm.
 * Values: string, where the usage of lower or upper case characters depend on each algorithm
@@ -10,7 +10,7 @@
 * Description: unique, globally unambiguous identifier, managed by registration authorities to ensure it clearly identifies a specific object, such as a cryptographic algorithm
 * Values: series of integers separated by dots, where each number represents a level in a tree structure
 
-## Name
+## name
 
 * Description: widely accepted name provided by the author of the algorithm or a standardization body
 * Values: string
@@ -54,3 +54,14 @@
 Notes: 
 1. the subclasses has been added to the cryptoClass property, separated by a "/" character from the class. This specific way to structure the subclasses is WIP.
 2. cryptoSubClass values are currently WIP
+
+## reference
+
+* Description: A link or reference to the authoritative publication, standard, or technical specification that formally defines the cryptographic algorithm. This resource MUST provide details on the algorithm’s mathematical basis, rationale, intended applications, and implementation considerations.
+* Value: Array of strings (each string must be a valid URL)
+   * Cardinal: 1..n (at least one reference is required; multiple references are permitted and should be ordered by priority).
+   * Ordering and Prioritization Rules:
+      * Highest priority: Official specification published by a recognized standardization body (e.g., NIST, IETF, ISO/IEC, ANSI, ETSI, RFC series, etc.).
+      * Next priority: Original research paper or technical report published by the algorithm designers/authors.
+      * Next priority: Any other authoritative, publicly accessible and free of charge document that provide the required detail about the algorithm.
+      * Additional references (optional): Any other authoritative documents that provide the required detail about the algorithm.

@@ -20,6 +20,8 @@ name: SPDX Cryptographic Algorithm List Example
 cryptoClass: Symmetric-Key-Algorithm/Encoding
 commonkeySize: ['256', '512']
 specifiedkeySize: {min: '128', max: '256'}
+reference 1: https://doi.org/10.17487/RFC2144
+reference 2: https://tnlandforms.us/cs594-cns96/cast.pdf
 ```
 ---
 
