@@ -5,5 +5,6 @@ name: Blowfish Cipher
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
 commonkeySize: '320'
 specifiedkeySize: {min: '128', max: '448'}
-reference1: https://doi.org/10.1007/3-540-58108-1_24
-reference2: https://www.schneier.com/academic/archives/1994/09/description_of_a_new.html
+reference:
+  - https://doi.org/10.1007/3-540-58108-1_24
+  - https://www.schneier.com/academic/archives/1994/09/description_of_a_new.html
