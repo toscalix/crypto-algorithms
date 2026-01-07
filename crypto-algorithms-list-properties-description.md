@@ -59,7 +59,7 @@ Notes:
 
 * Description: A link or reference to the authoritative publication, standard, or technical specification that formally defines the cryptographic algorithm. This resource MUST provide details on the algorithm’s mathematical basis, rationale, intended applications, and implementation considerations.
 * Value: Array of strings (each string must be a valid URL)
-   * Cardinal: 1..n (at least one reference is required; multiple references are permitted and should be ordered by priority).
+   * Each reference should be placed on a different line, as a list.
    * Ordering and Prioritization Rules:
       * Highest priority: Official specification published by a recognized standardization body (e.g., NIST, IETF, ISO/IEC, ANSI, ETSI, RFC series, etc.).
       * Next priority: Original research paper or technical report published by the algorithm designers/authors.
