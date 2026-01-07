@@ -5,5 +5,6 @@ name: Carlisle Adams and Stafford Tavares
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
 commonkeySize: '320'
 specifiedkeySize: '128'
-reference1: https://doi.org/10.17487/RFC2144
-reference2: https://tnlandforms.us/cs594-cns96/cast.pdf
+reference:
+  - https://doi.org/10.17487/RFC2144
+  - https://tnlandforms.us/cs594-cns96/cast.pdf
