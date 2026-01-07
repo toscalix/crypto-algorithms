@@ -4,5 +4,6 @@ name: ChaCha Stream Cipher
 cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher
 commonkeySize: '256'
 specifiedkeySize: '256'
-reference1: https://doi.org/10.17487/RFC8439
-reference2: https://cr.yp.to/chacha/chacha-20080128.pdf
+reference:
+  - https://doi.org/10.17487/RFC8439
+  - https://cr.yp.to/chacha/chacha-20080128.pdf
