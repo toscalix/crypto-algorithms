@@ -5,5 +5,6 @@ name: Triple Data Encryption Standard
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
 commonkeySize: '128'
 specifiedkeySize: '168'
-reference1: https://doi.org/10.17487/RFC1851
-reference2: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-67r2.pdf
+reference:
+  - https://doi.org/10.17487/RFC1851
+  - https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-67r2.pdf
