@@ -4,3 +4,5 @@ name: 'BLAKE3'
 cryptoClass: 'Cryptographic-Hash-Function/Hash-Function'
 commonkeySize: '256'
 specifiedkeySize: '256'
+reference:
+  - https://github.com/BLAKE3-team/BLAKE3-specs/blob/master/blake3.pdf
