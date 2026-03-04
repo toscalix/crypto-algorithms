@@ -9,19 +9,19 @@
 ## oid
 
 * Description: unique, globally unambiguous identifier, managed by registration authorities to ensure it clearly identifies a specific object, such as a cryptographic algorithm
-* Cardinality:  [0...*]
+* Cardinality:  [0..*]
 * Values: series of integers separated by dots, where each number represents a level in a tree structure
 
 ## name
 
 * Description: widely accepted name provided by the author of the algorithm or a standardization body
-* Cardinality: 1
+* Cardinality: [1]
 * Values: string
 
 ## commonkeySize
 
 * Description: the detected key size
-* Cardinality: [0...*]
+* Cardinality: [0..*]
 * Values:
   * <integer>, where <integer> is an integer, provided in bits.
   * ['<integer1>','<integer2>', ... '<integerx>'], where <integer2>, <integer2>, ... <integerx> are different integers, provided in bits, and in ascendant order.
@@ -29,7 +29,7 @@
 ## specifiedkeySize
 
 * Description: the default key size or range determined by the authors of the algorithm, standardization or compliance bodies/agencies
-* Cardinality: [0...*]
+* Cardinality: [0..*]
 * Values: one of these options, or a combination of them, are valid
    * <integer>, where <integer> is an integer, provided in bits.
    * ['<integer1>','<integer2>', ... '<integerx>'], where <integer2>, <integer2>, ... <integerx> are different integers, provided in bits, and in ascendant order.
@@ -41,7 +41,7 @@
    * Cryptographic hash functions do not require keys for their basic operation.
    * Symmetric-key algorithms transform data in a way that is fundamentally difficult to undo without knowledge of a secret key. The key is “symmetric” because the same key is used for a cryptographic operation and its inverse
    * Asymmetric-key algorithms, commonly known as public-key algorithms, use two related keys (i.e., a key pair) to perform their functions: a public key and a private key. The public key may be known by anyone; the private key should be under the sole control of the entity that “owns” the key pair. Even though the public and private keys of a key pair are related, knowledge of the public key cannot be used to determine the private key.
-* Cardinality: 1
+* Cardinality: [1]
 * Values: "Cryptographic-Hash-Function" , "Symetric-Key-Algorithm" or "Asymmetric-Key-Algorithm"
 
 ### cryptoSubClass
@@ -49,7 +49,7 @@
 * Description: each class of algorithms is categorised in subclasses. These subclasses are based/inspired on:
    * NIST Special Publication (SP) [800-57](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt1r4.pdf) Part 1, Rev. 4, January
    * Input from the SPDX Cryptographic Algorithms List Group members
-* Cardinality: [0,1]
+* Cardinality: [0..1]
 * Values:
    * cryptoClass "Cryptographic-Hash-Function"
      * cryptoSubClass values: "Hash-Function" , "Password-Hashing" , "Message-Authentication-Code" , "Checksum"
@@ -65,7 +65,7 @@ Notes:
 ## reference
 
 * Description: A link or reference to the authoritative publication, standard, or technical specification that formally defines the cryptographic algorithm. This resource MUST provide details on the algorithm’s mathematical basis, rationale, intended applications, and implementation considerations.
-* Cardinality: [1...*]
+* Cardinality: [1..*]
 * Value: Array of strings (each string must be a valid URL)
    * Each reference should be placed on a different line, as a list.
    * Ordering and Prioritization Rules:
