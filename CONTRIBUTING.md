@@ -82,7 +82,7 @@ Corrections to existing algorithm entries — for example, fixing an incorrect `
 
 A GitHub issue must still be opened before a pull request, unless the correction is clearly trivial (for example, fixing a typo in the `name` field). For corrections that affect the meaning or categorisation of an entry, the issue allows the group to verify the proposed change before it is submitted for review. The pull request must reference the issue and include a plain-language description of what was changed and why.
 
-### Proposing Deprecation or Removal of an Algorithm
+### Proposing Removal of an Algorithm
 
 Removal is reserved for the specific cases described in the [Cryptographic Algorithm Inclusion and Removal Criteria](docs/cryptographic-algorithm-inclusion-removal-criteria.md) document. Because removal can break downstream tools and eliminates traceability, it requires a higher level of scrutiny than other changes to the list.
 
