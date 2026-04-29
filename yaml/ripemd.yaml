@@ -1,5 +1,6 @@
 # SPDX-License-Identifier: CC0-1.0
 id: ripemd
+oid: 1.3.36.3.2.1
 name: RIPEMD Hash Function
 cryptoClass: Cryptographic-Hash-Function/Hash-Function
 commonkeySize: '128'

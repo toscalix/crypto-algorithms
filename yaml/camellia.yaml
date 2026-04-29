@@ -1,6 +1,10 @@
 # SPDX-License-Identifier: CC0-1.0
 id: camellia
+oid: 1.2.392.200011.61.1.1.1
 name: Camellia Cipher
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
 commonkeySize: '256'
 specifiedkeySize: {min: '128', max: '256'}
+reference:
+  - https://doi.org/10.17487/RFC3713
+  - https://www.iso.org/standard/54531.html

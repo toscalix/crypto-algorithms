@@ -4,3 +4,5 @@ name: 'BLAKE2'
 cryptoClass: 'Cryptographic-Hash-Function/Hash-Function'
 commonkeySize: '512'
 specifiedkeySize: '512'
+reference:
+  - https://doi.org/10.17487/RFC7693

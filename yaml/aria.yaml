@@ -1,6 +1,10 @@
 # SPDX-License-Identifier: CC0-1.0
 id: aria
+oid: 1.2.410.200046.1.1.1
 name: Aria Block Cipher
 cryptoClass: Symmetric-Key-Algorithm/Block-Cipher
 commonkeySize: '128'
 specifiedkeySize: {min: '128', max: '256'}
+reference:
+  - https://doi.org/10.17487/RFC5794
+  - https://link.springer.com/chapter/10.1007/978-3-540-24691-6_32
