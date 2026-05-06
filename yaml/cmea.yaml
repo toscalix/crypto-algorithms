@@ -4,6 +4,5 @@ name: Cellular Message Encryption Algorithm
 cryptoClass: Symmetric-Key-Algorithm/Stream-Cipher
 commonkeySize: '64'
 reference:
-  - https://www.3gpp2.org/Public_html/Specs/S.S0053-0_v2.0.pdf
-  - https://doi.org/10.6028/NIST.SP.800-38A
-  - https://www.iso.org/standard/81564.html
+  - https://www.schneier.com/wp-content/uploads/2016/02/paper-cmea.pdf
+  - https://link.springer.com/content/pdf/10.1007/BFb0052260.pdf
