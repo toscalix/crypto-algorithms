@@ -89,7 +89,7 @@
   * cryptoClass "Symmetric-Key-Algorithm"
      * cryptoSubClass values: "Block-Cipher" , "Stream-Cipher" or "Encoding"
   * cryptoClass "Asymmetric-Key-Algorithm"
-     * cryptoSubClass values: "Public-Key-Encryption" , "Public-Key-Cipher" , "Elliptic-Curve-Cryptography" , "Digital-Signature" , "Protocol", "Hybrid-Cipher" or "Key-Exchange-Mechanism"
+     * cryptoSubClass values: "Public-Key-Encryption" , "Public-Key-Cipher" , "Elliptic-Curve-Cryptography" , "Digital-Signature" , "Protocol", "Hybrid-Cipher", "Key-Exchange-Mechanism" or "Key-Encapsulation-Mechanism"
   * cryptoClass "Message-Authentication-Code"
      * cryptoSubClass values: "Hash-Based-MAC" , "Block-Cipher-MAC" , "Polynomial-MAC"
   * cryptoClass "Key-Derivation-Function"
