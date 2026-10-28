@@ -1,0 +1,7 @@
+id: slh-dsa
+name: Stateless Hash-Based Digital Signature Algorithm
+cryptoClass: Asymmetric-Key-Algorithm/Digital-Signature
+pqcClass: Hash-Based
+specifiedkeySize: ['128','192','256']
+reference:
+  - https://sphincs.org/

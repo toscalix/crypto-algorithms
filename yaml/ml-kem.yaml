@@ -1,0 +1,7 @@
+id: ml-kem
+name: Module-Lattice-Based Key-Encapsulation Mechanism. Kyber
+cryptoClass: Asymmetric-Key-Algorithm
+pqcClass: Lattice-Based
+specifiedkeySize: ['128','192','256']
+reference:
+  - https://pq-crystals.org/kyber/
